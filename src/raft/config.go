@@ -9,8 +9,8 @@ package raft
 //
 
 import (
-	"labrpc"
 	"log"
+	"nju-dissys-lab/labrpc"
 	"runtime"
 	"sync"
 	"testing"
